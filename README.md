@@ -1,6 +1,6 @@
 # Moteino IAQ Shield
 
-This is an air quality shield for Motenio that measures temperature, humidity, light intensity, PM2.5, CO2 and VOC concentrations. Power through micro USB.
+This is an indoor air quality shield for Motenio that measures temperature, humidity, light intensity, PM2.5, CO2 and VOC concentrations. Power through micro USB.
 <br><br>
 Sensors used:<br>
 SHT31/35<br>
