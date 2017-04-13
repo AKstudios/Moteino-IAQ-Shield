@@ -3695,6 +3695,29 @@ Relative Humidity</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,58.42,119.38,U2,VDD,VCC,,,"/>
+<approved hash="104,1,33.02,111.76,U2,VSS,GND,,,"/>
+<approved hash="104,1,121.92,119.38,U10,VDD,VCC,,,"/>
+<approved hash="106,1,195.58,144.78,A0,,,,,"/>
+<approved hash="106,1,195.58,142.24,A1,,,,,"/>
+<approved hash="106,1,195.58,139.7,A2,,,,,"/>
+<approved hash="106,1,195.58,137.16,A3,,,,,"/>
+<approved hash="106,1,195.58,129.54,A6,,,,,"/>
+<approved hash="106,1,195.58,127,A7,,,,,"/>
+<approved hash="106,1,195.58,124.46,D0_RX,,,,,"/>
+<approved hash="106,1,195.58,121.92,D1_TX,,,,,"/>
+<approved hash="106,1,232.41,116.84,D2,,,,,"/>
+<approved hash="106,1,232.41,129.54,D7,,,,,"/>
+<approved hash="106,1,232.41,132.08,D8,,,,,"/>
+<approved hash="106,1,232.41,134.62,D9,,,,,"/>
+<approved hash="106,1,232.41,137.16,D10_SS,,,,,"/>
+<approved hash="106,1,232.41,139.7,D11_MOSI,,,,,"/>
+<approved hash="106,1,232.41,142.24,D12_MISO,,,,,"/>
+<approved hash="106,1,232.41,144.78,D13_SCK,,,,,"/>
+<approved hash="106,1,25.4,60.96,INT,,,,,"/>
+<approved hash="106,1,232.41,114.3,RST,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
