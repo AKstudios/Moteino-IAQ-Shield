@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.1.0">
+<eagle version="8.1.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -767,7 +767,7 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="U$1" pad="P$8"/>
 <wire x1="29.2538" y1="17.522" x2="30.3062" y2="17.522" width="0.1778" layer="1"/>
 <wire x1="30.4038" y1="17.272" x2="30.3062" y2="17.522" width="0.1778" layer="1"/>
-<wire x1="30.8062" y1="17.522" x2="31.5538" y2="17.522" width="0.1778" layer="1"/>
+<wire x1="31.5538" y1="17.522" x2="30.8062" y2="17.522" width="0.1778" layer="1"/>
 <wire x1="30.8062" y1="17.522" x2="30.4038" y2="17.272" width="0.1778" layer="1"/>
 <via x="4.6228" y="3.937" extent="1-16" drill="0.254" diameter="0.127"/>
 <via x="13.716" y="4.4196" extent="1-16" drill="0.254" diameter="0.127"/>
@@ -785,10 +785,12 @@ Please make sure your boards conform to these design rules.</description>
 <via x="27.4066" y="4.6736" extent="1-16" drill="0.254" diameter="0.127"/>
 <via x="32.5374" y="15.6718" extent="1-16" drill="0.254" diameter="0.127"/>
 <via x="25.4254" y="19.177" extent="1-16" drill="0.254" diameter="0.127"/>
-<wire x1="32.1604" y1="17.522" x2="32.512" y2="17.1704" width="0.1778" layer="1"/>
+<wire x1="32.512" y1="17.1704" x2="32.1604" y2="17.522" width="0.1778" layer="1"/>
 <wire x1="32.512" y1="17.1704" x2="32.512" y2="15.6972" width="0.1778" layer="1"/>
 <wire x1="32.512" y1="15.6972" x2="32.5374" y2="15.6718" width="0.1778" layer="1"/>
-<wire x1="31.5538" y1="17.522" x2="32.1604" y2="17.522" width="0" layer="19" extent="1-1"/>
+<wire x1="32.1604" y1="17.522" x2="31.5538" y2="17.522" width="0.1778" layer="1"/>
+<wire x1="31.5538" y1="18.022" x2="32.258" y2="18.022" width="0.1778" layer="1"/>
+<wire x1="32.258" y1="18.022" x2="32.258" y2="18.034" width="0.1778" layer="1"/>
 </signal>
 <signal name="D10_SS">
 <contactref element="DIGITALSIDE" pad="4"/>
